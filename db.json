@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "carlos amaro",
+      "empresa": "at&t",
+      "email": "carlosluisamaro@gmail.com",
+      "telefono": "04148874449",
+      "notas": "esto es una prueba",
+      "id": 1
+    },
+    {
+      "nombre": "maria tovar",
+      "empresa": "lions",
+      "email": "maria@maria.com",
+      "telefono": "04165228902",
+      "notas": "esto es la tercera prueba",
+      "id": 3
+    }
+  ]
+}
